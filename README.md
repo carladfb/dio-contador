@@ -1,5 +1,5 @@
 # DIO - Contador
-Desafio da DIO onde eu fiz um contador simples
+Desafio da DIO onde eu fiz um contador simples.
 
 ## Funcionalidades 
 - Contador que conta os números entre o primeiro parâmetro e o segundo parâmetro inseridos;
